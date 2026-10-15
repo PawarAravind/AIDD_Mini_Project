@@ -1,0 +1,11 @@
+protocol,isoform,train_unique,test_unique,exact_smiles_overlap
+cold_compound,CYP1A2,253,59,0
+cold_compound,CYP2C19,172,43,0
+cold_compound,CYP2C9,744,137,0
+cold_compound,CYP2D6,655,124,0
+cold_compound,CYP3A4,1090,234,0
+scaffold,CYP1A2,276,53,0
+scaffold,CYP2C19,206,23,0
+scaffold,CYP2C9,736,152,0
+scaffold,CYP2D6,671,125,0
+scaffold,CYP3A4,1141,208,0

@@ -1,0 +1,9 @@
+Initial audit of uploaded Deep-PK substrate archives
+
+- 5 CYP isoforms; each archive provides train, validation, and test CSVs.
+- Total rows across all isoforms and partitions: 4,129.
+- All files observed contain: smiles_standarized, label, group.
+- Labels observed: 0 and 1; no missing labels in these files.
+- No duplicate SMILES across train/validation/test within each individual isoform.
+- Some compounds occur across multiple CYP isoforms; this is useful for multi-task training but must be considered in compound-level evaluation.
+- The archive schema does not establish whether the provided split strategy is scaffold-based or random. Verify before making a claim.

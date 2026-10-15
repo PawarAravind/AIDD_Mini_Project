@@ -1,0 +1,4 @@
+partition_1,partition_2,shared_scaffolds
+train,val,0
+train,test,0
+val,test,0

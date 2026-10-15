@@ -1,0 +1,2 @@
+isoform,model,split,n_train,n_val,n_test,threshold,val_MCC_at_selected_threshold,test_ROC_AUC,test_PR_AUC,test_MCC,test_F1,test_accuracy
+CYP1A2,Morgan2048_LogisticRegression,global_cold_compound,253,54,59,0.2700000000000001,0.4457893447634325,0.8206018518518519,0.7832348026923348,0.4421834180672939,0.7272727272727273,0.6949152542372882

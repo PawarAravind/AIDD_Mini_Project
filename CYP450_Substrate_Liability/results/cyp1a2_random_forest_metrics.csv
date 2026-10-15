@@ -1,0 +1,2 @@
+isoform,model,split,n_train,n_val,n_test,threshold,val_MCC_at_selected_threshold,test_ROC_AUC,test_PR_AUC,test_MCC,test_F1,test_accuracy
+CYP1A2,Morgan2048_RandomForest,global_cold_compound,253,54,59,0.49000000000000027,0.4143709650823724,0.7881944444444444,0.7817797625084177,0.35871033659046014,0.6666666666666666,0.6779661016949152

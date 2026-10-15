@@ -1,0 +1,4 @@
+partition_1,partition_2,shared_canonical_compounds
+train,val,267
+train,test,272
+val,test,52

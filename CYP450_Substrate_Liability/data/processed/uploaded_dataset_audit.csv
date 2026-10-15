@@ -1,0 +1,16 @@
+isoform,split,file,rows,columns,positive_label_1,negative_label_0,missing_label,unique_smiles
+CYP1A2,test,cyp1a2_test.csv,37,"smiles_standarized, label, group",14,23,0,37
+CYP1A2,train,cyp1a2_train.csv,292,"smiles_standarized, label, group",142,150,0,292
+CYP1A2,validation,cyp1a2_val.csv,37,"smiles_standarized, label, group",17,20,0,37
+CYP2C19,test,cyp2c19_test.csv,26,"smiles_standarized, label, group",13,13,0,26
+CYP2C19,train,cyp2c19_train.csv,208,"smiles_standarized, label, group",83,125,0,208
+CYP2C19,validation,cyp2c19_val.csv,27,"smiles_standarized, label, group",11,16,0,27
+CYP2C9,test,cyp2c9_test.csv,103,"smiles_standarized, label, group",39,64,0,103
+CYP2C9,train,cyp2c9_train.csv,827,"smiles_standarized, label, group",266,561,0,827
+CYP2C9,validation,cyp2c9_val.csv,104,"smiles_standarized, label, group",32,72,0,104
+CYP2D6,test,cyp2d6_test.csv,92,"smiles_standarized, label, group",44,48,0,92
+CYP2D6,train,cyp2d6_train.csv,733,"smiles_standarized, label, group",347,386,0,733
+CYP2D6,validation,cyp2d6_val.csv,92,"smiles_standarized, label, group",41,51,0,92
+CYP3A4,test,cyp3a4_test.csv,155,"smiles_standarized, label, group",71,84,0,155
+CYP3A4,train,cyp3a4_train.csv,1241,"smiles_standarized, label, group",550,691,0,1241
+CYP3A4,validation,cyp3a4_val.csv,155,"smiles_standarized, label, group",66,89,0,155
